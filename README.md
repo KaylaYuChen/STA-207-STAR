@@ -1,3 +1,7 @@
+## RPUB
+https://rpubs.com/kyachen/STA207Project
+
+
 ## Overview
 This project analyzes data from **Project STAR (Student/Teacher Achievement Ratio)**, one of the largest randomized education experiments conducted in the United States. The study evaluates whether **smaller class sizes improve early reading outcomes** and whether these effects differ across socioeconomic groups.
 
