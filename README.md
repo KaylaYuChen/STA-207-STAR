@@ -96,7 +96,7 @@ This project was implemented using **R** and the following packages:
 ---
 
 ## Authors
-Kayla Yu Chen 
-Jack La
-Matthew Martinez
-Kevin Zhou 
+- Kayla Yu Chen 
+- Jack La
+- Matthew Martinez
+- Kevin Zhou 
